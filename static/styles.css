@@ -1,0 +1,49 @@
+.colored-section {
+    background-color: #D14D72;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    margin-inline: 8px;
+}
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.title-image {
+    max-height: 60rem;
+    max-width: 25rem;
+}
+
+;
+
+.card-img-top {
+    max-height: 60rem;
+    max-width: 25rem;
+}
+
+.white-section {
+    background-color: black;
+}
+
+.cardimgclass {
+    width: 17rem;
+    height: 10rem;
+    object-fit: cover;
+}
+.card-body
+{
+    min-height: 6.3rem;
+}
